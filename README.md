@@ -39,6 +39,16 @@ In addition to designing the platform, our team conducted user research and deve
 
 ---
 
+## 🧭 Navigation
+
+This repository includes the following key files and resources:
+
+- 🌐 **Live Site / Portfolio:** [https://cjkipp.vercel.app](https://cjkipp.vercel.app) — Access the deployed platform prototype and project portfolio.
+- 📄 **User Personas & Research:** Documentation and files detailing the community personas developed from interviews and research.
+- 📂 **Resource Platform Code:** Source code for the multilingual resource navigation platform.
+
+---
+
 ## 🛠️ Tech Stack
 
 - 💻 HTML, CSS, JavaScript  
