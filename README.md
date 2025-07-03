@@ -36,8 +36,6 @@ In addition to designing the platform, our team conducted user research and deve
 - 🧑‍🔬 **User-informed design** based on community interviews and feedback
 - 🌍 **Multilingual accessibility** via Google Translate API
 - 🔗 **Link-based resource guide** (Linktree-style) with categories like food, health, and transportation
-- 📱 **QR codes & printable pamphlets** for offline access
-- 🧪 **Planned usability testing and scalability** for future communities
 
 ---
 
@@ -45,8 +43,6 @@ In addition to designing the platform, our team conducted user research and deve
 
 - 💻 HTML, CSS, JavaScript  
 - 🌐 Google Translate API  
-- 🧾 Linktree / PDF for simplified resource distribution  
-- 📷 QR Code Generator  
 
 ---
 
@@ -64,19 +60,5 @@ In addition to designing the platform, our team conducted user research and deve
 - 🎓 University of Maryland – College of Information Studies  
 - 🏢 UMD Center for Community Engagement  
 - 🙌 Local residents who participated in interviews and feedback sessions
-
----
-
-## 🖼️ Screenshots / Demo (Optional)
-
-> _(Add platform screenshots, Figma mockups, or Linktree/PDF preview images here if available)_
-
----
-
-## 📬 Contact
-
-For more information or collaboration opportunities:  
-📧 coltonkipp@gmail.com  
-🌐 [Portfolio Website](https://cjkipp.vercel.app)
 
 ---
