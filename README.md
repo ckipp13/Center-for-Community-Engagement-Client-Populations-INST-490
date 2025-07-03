@@ -1,6 +1,6 @@
 # 📍 CP Community Resource Hub  
 **Capstone Project — INST490 @ University of Maryland**  
-🔗 [Live Site / Portfolio](https://cjkipp.vercel.app)
+🔗 [Live Site](https://cjkipp.vercel.app)
 
 ---
 
