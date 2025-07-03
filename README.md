@@ -43,9 +43,10 @@ In addition to designing the platform, our team conducted user research and deve
 
 This repository includes the following key files and resources:
 
-- 🌐 **Live Site / Portfolio:** [https://cjkipp.vercel.app](https://cjkipp.vercel.app) — Access the deployed platform prototype and project portfolio.
-- 📄 **User Personas & Research:** Documentation and files detailing the community personas developed from interviews and research.
-- 📂 **Resource Platform Code:** Source code for the multilingual resource navigation platform.
+- 🚀 **Live Deployment:** [https://cjkipp.vercel.app](https://cjkipp.vercel.app) — Access the fully deployed platform prototype.  
+- 📄 [`User Persona Client Population.pdf`](User%20Persona%20Client%20Population.pdf) — Detailed client population personas developed through user research and interviews.  
+- 🌐 [`resourceHub.html`](resourceHub.html) — The live HTML prototype of the multilingual CP Community Resource Hub platform.
+
 
 ---
 
